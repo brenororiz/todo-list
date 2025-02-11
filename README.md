@@ -1,12 +1,12 @@
-🌟 Funcionalidades
-Adicionar Tarefa: Insira uma nova tarefa no formulário.
-Visualizar Tarefas: As tarefas são exibidas em ordem decrescente de criação.
-Excluir Tarefa: Clique no botão "Excluir" ao lado de uma tarefa para removê-la.
-Validação em Tempo Real: O botão "Adicionar" só é habilitado quando há texto no campo.
-Confirmação de Exclusão: Um alerta solicita confirmação antes de excluir uma tarefa.
+#🌟 Funcionalidades
+Adicionar Tarefa: Insira uma nova tarefa no formulário.  
+Visualizar Tarefas: As tarefas são exibidas em ordem decrescente de criação.  
+Excluir Tarefa: Clique no botão "Excluir" ao lado de uma tarefa para removê-la.  
+Validação em Tempo Real: O botão "Adicionar" só é habilitado quando há texto no campo.  
+Confirmação de Exclusão: Um alerta solicita confirmação antes de excluir uma tarefa.  
 Design Responsivo: Layout adaptável a diferentes dispositivos.
 
-🛠️ Tecnologias Utilizadas
+#🛠️ Tecnologias Utilizadas
 Backend: PHP
 Banco de Dados: MySQL
 Frontend: HTML5, CSS3, JavaScript
