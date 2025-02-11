@@ -50,17 +50,17 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 # 📂 Estrutura do Projeto
 ```
-/todo-list/  
-│  
-├── index.php          # Página principal da aplicação  
-├── add_task.php       # Script para adicionar tarefas  
-├── delete_task.php    # Script para excluir tarefas  
-├── db_config.php      # Configuração do banco de dados  
-└── assets/  
-    ├── css/  
-    │   └── styles.css  # Arquivo CSS para estilização  
-    └── js/  
-        └── script.js   # Arquivo JavaScript para interatividade  
+/todo-list/
+│
+├── index.php          # Página principal da aplicação
+├── add_task.php       # Script para adicionar tarefas
+├── delete_task.php    # Script para excluir tarefas
+├── db_config.php      # Configuração do banco de dados
+└── assets/
+    ├── css/
+    │   └── styles.css  # Arquivo CSS para estilização
+    └── js/
+        └── script.js   # Arquivo JavaScript para interatividade
         ```
 
 # 🤝 Contribuição
