@@ -39,10 +39,10 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 3. Configuração do Projeto
 1. Clone este repositório:  
-   
-    `git clone https://github.com/seu-usuario/todo-list.git`
-
     
+`git clone https://github.com/seu-usuario/todo-list.git`
+
+
 2. Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).  
 3. Configure as credenciais do banco de dados no arquivo db_config.php:  
 ```
