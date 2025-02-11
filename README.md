@@ -1,4 +1,4 @@
-#🌟 Funcionalidades
+🌟 # Funcionalidades
 Adicionar Tarefa: Insira uma nova tarefa no formulário.  
 Visualizar Tarefas: As tarefas são exibidas em ordem decrescente de criação.  
 Excluir Tarefa: Clique no botão "Excluir" ao lado de uma tarefa para removê-la.  
