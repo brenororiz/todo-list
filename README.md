@@ -49,6 +49,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
        http://localhost/todo-list/index.php
 
 # 📂 Estrutura do Projeto
+```
 /todo-list/  
 │  
 ├── index.php          # Página principal da aplicação  
@@ -60,6 +61,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
     │   └── styles.css  # Arquivo CSS para estilização  
     └── js/  
         └── script.js   # Arquivo JavaScript para interatividade  
+        ```
 
 # 🤝 Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar o projeto, siga os passos abaixo:
