@@ -23,7 +23,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 2. Configuração do Banco de Dados
 1. Crie um novo banco de dados chamado todo_list:  
-        `CREATE DATABASE todo_list;`  
+        CREATE DATABASE todo_list;  
 2. Use o banco de dados e crie a tabela tasks:  
         
         USE todo_list;  
