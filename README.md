@@ -24,7 +24,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 ## 2. Configuração do Banco de Dados
 1. Crie um novo banco de dados chamado todo_list:  
     
-        `CREATE DATABASE todo_list;`
+        CREATE DATABASE todo_list;
 
 2. Use o banco de dados e crie a tabela tasks:  
         
@@ -80,15 +80,15 @@ Contribuições são bem-vindas! Se você deseja melhorar o projeto, siga os pas
 1. Faça um fork deste repositório.  
 2. Crie uma branch para sua feature:  
             
-        `git checkout -b feature/nome-da-feature`
+        git checkout -b feature/nome-da-feature
 
 3. Faça suas alterações e commit:  
             
-            `git commit -m "Adiciona descrição da mudança"`
+            git commit -m "Adiciona descrição da mudança"
 
 4. Envie suas alterações:  
             
-            `git push origin feature/nome-da-feature`  
+            git push origin feature/nome-da-feature  
 
 5. Abra um Pull Request explicando suas alterações.  
 
