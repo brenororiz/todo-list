@@ -45,7 +45,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 4. Executar a Aplicação
 1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.
-2 Acesse a aplicação no navegador:
+2 Acesse a aplicação no navegador:  
 `http://localhost/todo-list/index.php`
 
 # 📂 Estrutura do Projeto
