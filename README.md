@@ -45,18 +45,18 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 2. Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).  
 3. Configure as credenciais do banco de dados no arquivo db_config.php:  
-```
+         ```
         $host = 'localhost';  
         $dbname = 'todo_list';  
         $username = 'root'; // Altere conforme necessário  
         $password = '';     // Altere conforme necessário  
-```
+        ```
 
 ## 4. Executar a Aplicação
 1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.  
 2 Acesse a aplicação no navegador:  
    
-        http://localhost/todo-list/index.php
+           http://localhost/todo-list/index.php
 
 
 # 📂 Estrutura do Projeto
