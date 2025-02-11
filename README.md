@@ -40,12 +40,12 @@ Navegador Web: Chrome, Firefox, Edge, etc.
     `git clone https://github.com/seu-usuario/todo-list.git`
 2. Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).  
 3. Configure as credenciais do banco de dados no arquivo db_config.php:  
-       
+```
         $host = 'localhost';  
         $dbname = 'todo_list';  
         $username = 'root'; // Altere conforme necessário  
         $password = '';     // Altere conforme necessário  
-
+```
 
 ## 4. Executar a Aplicação
 1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.  
