@@ -44,7 +44,7 @@ Navegador Web: Chrome, Firefox, Edge, etc.
         $password = '';     // Altere conforme necessário  
 
 ## 4. Executar a Aplicação
-1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.
+1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.  
 2 Acesse a aplicação no navegador:  
 `http://localhost/todo-list/index.php`
 
