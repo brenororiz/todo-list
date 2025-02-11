@@ -35,18 +35,18 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 3. Configuração do Projeto
     1. Clone este repositório:  
-        git clone https://github.com/seu-usuario/todo-list.git  
+        ```git clone https://github.com/seu-usuario/todo-list.git```  
     2. Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).  
     3. Configure as credenciais do banco de dados no arquivo db_config.php:  
-        $host = 'localhost';  
+        ```$host = 'localhost';  
         $dbname = 'todo_list';  
         $username = 'root'; // Altere conforme necessário  
-        $password = '';     // Altere conforme necessário  
+        $password = '';     // Altere conforme necessário ``` 
 
 ## 4. Executar a Aplicação
     1. Inicie o servidor Apache e MySQL no XAMPP/WAMP.
     2. Acesse a aplicação no navegador:
-        http://localhost/todo-list/index.php
+       ``` http://localhost/todo-list/index.php```
 
 # 📂 Estrutura do Projeto
 /todo-list/
@@ -66,11 +66,11 @@ Contribuições são bem-vindas! Se você deseja melhorar o projeto, siga os pas
 
     1. Faça um fork deste repositório.  
     2. Crie uma branch para sua feature:  
-        git checkout -b feature/nome-da-feature  
+        ```git checkout -b feature/nome-da-feature  ```
     3. Faça suas alterações e commit:  
-        git commit -m "Adiciona descrição da mudança"  
+        ```git commit -m "Adiciona descrição da mudança"```  
     4. Envie suas alterações:  
-        git push origin feature/nome-da-feature  
+        ```git push origin feature/nome-da-feature  ```
     5. Abra um Pull Request explicando suas alterações.  
 
 # 📜 Licença
