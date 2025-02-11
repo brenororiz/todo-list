@@ -78,6 +78,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 👤 Autor
 Desenvolvido por Breno.
+
 GitHub: @brenororiz
 LinkedIn: linkedin.com/in/breno-roriz-413312301
 Email: brenororiz@gmail.com
