@@ -23,7 +23,9 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 2. Configuração do Banco de Dados
 1. Crie um novo banco de dados chamado todo_list:  
+    
     `CREATE DATABASE todo_list;`
+
 2. Use o banco de dados e crie a tabela tasks:  
         
         USE todo_list;  
@@ -37,7 +39,10 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
 ## 3. Configuração do Projeto
 1. Clone este repositório:  
+   
     `git clone https://github.com/seu-usuario/todo-list.git`
+
+    
 2. Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).  
 3. Configure as credenciais do banco de dados no arquivo db_config.php:  
 ```
@@ -50,7 +55,9 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 ## 4. Executar a Aplicação
 1 Inicie o servidor Apache e MySQL no XAMPP/WAMP.  
 2 Acesse a aplicação no navegador:  
+   
     `http://localhost/todo-list/index.php`
+
 
 # 📂 Estrutura do Projeto
 ```
